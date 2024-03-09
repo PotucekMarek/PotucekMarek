@@ -11,4 +11,4 @@ As much as I cherish working with Python, HTML, and CSS, my thirst for knowledge
 
 
 ## 📫 How to reach me...
-You can connect with me here on GitHub or on LinkedIn.
+You can connect with me here on [GitHub](https://github.com/PotucekMarek) or on [LinkedIn](https://www.linkedin.com/in/marek-pot%C5%AF%C4%8Dek-a037a7276/).
